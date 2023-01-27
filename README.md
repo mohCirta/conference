@@ -6,9 +6,11 @@ Projet de gestion des conférence à soat.
 
     cd backend
     docker-compose up -d
+    
 
 ## Archirtecture du backend
 * CQRS
 * Architecture hexagonale
+* CQRS
 
 
